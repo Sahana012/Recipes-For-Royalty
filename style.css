@@ -1,0 +1,415 @@
+body {
+  background-color: #ff4747;
+}
+
+
+.mocha {
+  background-image: url('https://cdn.glitch.com/79fe830b-d601-4a0f-9968-2b7884f283f6%2FChocolate-Mocha-Cake-055.jpg?v=1613086661999');
+}
+
+#mochaTitle {
+  color: #523215;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;  
+}
+
+.m-s {
+  color: #523215;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold; 
+}
+
+.m-r {
+  color: #523215;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.oreo {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fo.jpg?v=1614047789950');
+}
+
+#oreoTitle {
+  font-family: French Script MT;
+  color: black;
+  text-align: center;
+  font-size: 70px;
+}
+
+.o-s {
+  font-family: French Script MT;
+  color: black;
+  text-align: center;
+  font-size: 50px; 
+  font-weight: bold; 
+}
+
+.o-r {
+  font-family: French Script MT;
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.vanilla {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fv.jpg?v=1614047961005');
+  background-size: cover;
+}
+
+#vanillaTitle {
+  color: #c29e32;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold; 
+}
+
+.v-s {
+  color: #c29e32;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold; 
+}
+
+.v-r {
+  color: #c29e32;
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold; 
+}
+
+.mango {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fm.jpg?v=1614048026900');
+  background-size: cover;
+}
+
+#mangoTitle {
+  font-family: French Script MT;
+  color: #ffa600;
+  text-align: center;
+  font-size: 70px;
+}
+
+.mc-s {
+  font-family: French Script MT;
+  color: #ffa600;
+  text-align: center;
+  font-size: 50px;
+}
+
+.mc-r {
+  ont-family: French Script MT;
+  color: #ffa600;
+  text-align: center;
+  font-size: 40px;
+}
+
+.samosa {
+  background-image: url('https://cdn.glitch.com/79fe830b-d601-4a0f-9968-2b7884f283f6%2Fsamosa.webp?v=1613087504390');
+  background-size: cover;
+}
+
+
+#samosaTitle {
+  color: red;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold; 
+}
+
+.s-s {
+  color: red;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold; 
+}
+
+.s-r {
+  color: red;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.fajitas {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Ff.jpg?v=1614124705141');
+  background-size: cover;
+}
+
+
+#fajitasTitle {
+  font-family: French Script MT;
+  color: #ffce1c;
+  text-align: center;
+  font-size: 70px;
+}
+
+.f-s {
+  font-family: French Script MT;
+  color: #ffce1c;
+  text-align: center;
+  font-size: 50px;
+}
+
+.f-r {
+  font-family: French Script MT;
+  color: #ffce1c;
+  text-align: center;
+  font-size: 40px;
+}
+
+.buffalo {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fb.jpg?v=1614124985613');
+  background-size: cover;
+}
+
+#buffaloTitle {
+  color: #520606;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold; 
+}
+
+.b-s {
+  color: #520606;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold; 
+}
+
+.b-r {
+  color: #520606  ;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.nachos {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fn.jpg?v=1614125219427');
+  background-size: cover;
+}
+
+
+#nachosTitle {
+  font-family: French Script MT;
+  color: #362a05;
+  text-align: center;
+  font-size: 70px;
+}
+
+.n-s {
+  font-family: French Script MT;
+  color: #362a05;
+  text-align: center;
+  font-size: 50px;
+}
+
+.n-r {
+  font-family: French Script MT;
+  color: #362a05;
+  text-align: center;
+  font-size: 40px;
+}
+
+.berry {
+  background-image: url('https://cdn.glitch.com/79fe830b-d601-4a0f-9968-2b7884f283f6%2Fsm.jpg?v=1613087662202');
+  background-size: cover;
+}
+
+#berryTitle {
+  color: #ff0044;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold; 
+}
+
+.be-s {
+  color: #ff0044;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold; 
+}
+
+.be-r {
+  color: #ff0044;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.strawberry {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fs.jpg?v=1614218560774');
+  background-size: cover;
+}
+
+#strawberryTitle {
+  font-family: French Script MT;
+  color: #ff0080;
+  text-align: center;
+  font-size: 70px;
+}
+
+.st-s {
+  font-family: French Script MT;
+  color: #ff0080;
+  text-align: center;
+  font-size: 60px; 
+}
+
+.st-r {
+  font-family: French Script MT;
+  color: #ff0080;
+  text-align: center;
+  font-size: 40px;
+}
+
+.chocolate {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fc.jpg?v=1614218988008');
+}
+
+#chocolateTitle {
+  color: #1f1202;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold; 
+}
+
+.c-s {
+  color: #1f1202;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold; 
+}
+
+.c-r {
+  color: #1f1202;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.cherry {
+  background-image: url('https://cdn.glitch.com/1bccdddb-12ea-4693-bdc2-ef39f5ce0cf1%2Fst.jpg?v=1614218969867');
+  background-size: cover;
+}
+
+#cherryTitle {
+  font-family: French Script MT;
+  color: red;
+  text-align: center;
+  font-size: 70px;
+}
+
+.ch-s {
+  font-family: French Script MT;
+  color: red;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold; 
+}
+
+.ch-r {
+  font-family: French Script MT;
+  color: red;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.re2 {
+    justify-content: space-evenly;
+    background-color: white;
+    border: 5px dotted #523215;
+    opacity: 0.8;
+    font-size: 25px;
+    border-radius: 100px;
+}
+
+.re3 {
+    justify-content: space-evenly;
+    background-color: white;
+    border: 5px dotted #ebcc6e;
+    opacity: 0.8;
+    font-size: 25px;
+    border-radius: 100px;
+}
+
+
+h1 {
+  font-family: French Script MT;
+  color: yellow;
+  text-align:center;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: French Script MT;
+  color: yellow;
+  text-align:center;
+  font-size: 50px;
+}
+
+h3{
+  font-family: French Script MT;
+  color: yellow;
+  font-size: 35px;
+  text-align: center;
+}
+
+p {
+  font-family: French Script MT;
+  color: yellow;
+  text-align: center;
+}
+
+.title {
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: space-evenly;
+    background-color: red;
+}
+
+.title2 {
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: space-evenly;
+}
+
+.sub {
+    justify-content: space-evenly;
+    background-color: red;
+    font-size: 25px;
+}
+
+.grid {
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: red;
+}
+
+.re {
+  display : flex;
+    flex-wrap: wrap;
+    border-radius: 30px;
+    background-color: #ff4747;
+    padding: 30px;
+    margin: 25px;
+    width: 200px;
+    font-size: 25px;
+    font-family: cursive;
+  justify-content: space-evenly;
+}
+
+.grid img{
+    border: 1px solid yellow;
+    border-radius: 28%;
+}
+
+a{
+  color: yellow;
+  font-size: 25px;
+}
